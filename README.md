@@ -3,7 +3,6 @@ Case study solutions for #8WeekSQLChallenge by Danny Ma
 This repository contains the solutions for the case studies in Danny Ma #8WeekSQLChallenge. The 8 Week SQL Challenge is started by Danny Ma through Data With Danny virtual data apprenticeship program, which consists of 8 different SQL challenges.
 
 
- 																																								Case Study #1 - Danny's Diner!
 ![1](https://user-images.githubusercontent.com/97706504/192121312-e3a38e69-aba5-4129-8cf7-cf5bb6379249.png)
 
 Introduction:
